@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+/src/BatteryTester/bin/x86/Debug
+/src/BatteryTester/obj
